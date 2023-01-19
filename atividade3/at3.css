@@ -1,0 +1,31 @@
+.box1 {
+
+   background-color: black;
+   color: white; 
+    position: absolute;
+    bottom: 300px;
+    right: 600px;
+    left: 50px;
+    
+    margin-top: 100px;
+
+   
+}
+
+
+.box2 {
+
+    background-color: gray;
+    color: white;
+    text-align: center;
+    margin: 200px;
+    margin-top: 100px;
+    bottom: 400px;
+
+    
+    
+
+
+
+
+}

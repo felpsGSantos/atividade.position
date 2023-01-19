@@ -1,0 +1,36 @@
+
+.container   {
+    
+    background-color: rgb(138, 135, 135);
+    width: 500px;
+    position: relative;
+    margin: 300px;
+    margin-top: 30px;
+    left: 400;
+    text-align: center;
+   
+    
+   
+    
+}
+
+.box1  {
+    
+    background-color: rgb(9, 9, 10);
+    position: fixed;
+    margin: 5px;
+    padding: 2px;
+    top: 5px;
+    width: 125px;
+    height: 50px;
+    
+    
+}
+
+
+
+
+
+
+
+
